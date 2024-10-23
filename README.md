@@ -1,4 +1,4 @@
-# Experimentation with Classifiers - README.txt
+# Experimentation with Classifiers
 
 ## Introduction
 This program is designed to conduct experiments using three different classifiers (KNeighborsClassifier, GaussianNB, MLPClassifier) on a dataset comprising image information and edge histograms. 
