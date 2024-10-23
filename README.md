@@ -8,7 +8,7 @@ The goal is to train and evaluate these classifiers, saving both the confusion m
 1. Ensure you have Python installed on your system (version 3.6 or later).
 2. Install the required libraries by running:
 
- `pip install numpy pandas scikit-learn`
+    `pip install numpy pandas scikit-learn`
 
 ## Execution
 1. Place the program script and the dataset files (`Images.csv` and `EdgeHistogram.csv`) in the same directory.
